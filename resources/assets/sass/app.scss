@@ -1,0 +1,21 @@
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// DataTable
+@import "libs/dataTables.bootstrap";
+
+// GE_SS_Text_Light font
+@font-face {
+    font-family: GE_SS_Text_Light;
+	font-style: normal;
+    src: url('../fonts/GE_SS_Text_Light.otf');
+    unicode-range: U+0600-U+06FF; // Moh
+}
+
+// Custom
+@import "datatables_override";
+@import "books";
+
