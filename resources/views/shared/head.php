@@ -9,7 +9,7 @@
     <!-- Add to homescreen for Safari on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="معرض جدة الدولي للكتاب 2016 - الصفحة المُساعدة">
+    <meta name="apple-mobile-web-app-title" content="معرض جدة الدولي للكتاب 2017 - الصفحة المُساعدة">
     <link rel="apple-touch-icon-precomposed" href="<?=base_url('logo120.png');?>">
     <!-- Tile icon for Win8 (144x144 + tile color) -->
     <meta name="msapplication-TileImage" content="<?=base_url('logo120.png');?>">
@@ -18,13 +18,13 @@
     <!-- facebook & twitter -->
 
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="معرض جدة الدولي للكتاب 2016 - الصفحة المُساعدة" />
+    <meta name="twitter:title" content="معرض جدة الدولي للكتاب 2017 - الصفحة المُساعدة" />
     <meta name="twitter:description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر بالإضافة لتحميل خريطة المعرض."/>
     <meta name="twitter:image" content="<?=base_url('logo120.png');?>">
     <meta name="twitter:url" content="<?=base_url('');?>" />
     <meta name="twitter:site" content="@MohannadNaj" />
     <meta name="twitter:creator" content="@MohannadNaj" />
-    <meta property="og:title" content="معرض جدة الدولي للكتاب 2016 - الصفحة المُساعدة"/>
+    <meta property="og:title" content="معرض جدة الدولي للكتاب 2017 - الصفحة المُساعدة"/>
     <meta property="og:image" content="<?=base_url('logo120.png');?>"/>
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="MohannadNaj"/>
