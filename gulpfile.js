@@ -3,7 +3,7 @@ const elixir = require('laravel-elixir');
 
 require('laravel-elixir-vue');
 
-elixir.config.sourcemaps = true;
+elixir.config.sourcemaps = false;
 elixir.config.appPath = 'application';
 elixir.config.viewPath = 'resources/views';
 
