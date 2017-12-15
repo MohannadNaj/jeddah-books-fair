@@ -1,7 +1,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge, Chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر بالإضافة لتحميل خريطة المعرض." />
+    <meta name="description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر." />
     <meta name="keywords" content="Jeddah, bookfair, معرض جدة, معرض جدة الدولي للكتاب, معرض جدة للكتاب" />
     <!-- Add to homescreen for Chrome on Android -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -19,7 +19,7 @@
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="معرض جدة الدولي للكتاب 2017 - الصفحة المُساعدة" />
-    <meta name="twitter:description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر بالإضافة لتحميل خريطة المعرض."/>
+    <meta name="twitter:description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر."/>
     <meta name="twitter:image" content="<?=base_url('logo120.png');?>">
     <meta name="twitter:url" content="<?=base_url('');?>" />
     <meta name="twitter:site" content="@MohannadNaj" />
@@ -28,7 +28,7 @@
     <meta property="og:image" content="<?=base_url('logo120.png');?>"/>
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="MohannadNaj"/>
-    <meta property="og:description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر بالإضافة لتحميل خريطة المعرض."/>
+    <meta property="og:description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر."/>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge, Chrome=1">
