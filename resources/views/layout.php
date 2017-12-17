@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <html>
-  <meta itemprop="description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر بالإضافة لتحميل خريطة المعرض.">
+  <meta itemprop="description" content="صفحة مُساعدة لزوار معرض جدة الدولي للكتاب للبحث عن دور النشر">
   <meta itemprop="image" content="<?=base_url('logo120.png');?>">
 <head>
     <? $this->load->view('shared/head'); ?>
