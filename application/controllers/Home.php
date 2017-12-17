@@ -22,4 +22,8 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('layout', ['yield'=>'home/index']);
 	}
+
+	public function search() {
+		$this->load->view('layout', ['yield'=>'home/search']);
+	}
 }

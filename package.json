@@ -2,15 +2,21 @@
   "private": true,
   "scripts": {
     "prod": "gulp --production",
-    "dev": "gulp watch"
+    "dev": "gulp watch",
+    "excel2json": "node parse-excel-files/index.js",
+    "concatjson": "node parse-excel-files/concat-json-files.js"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
+    "json-loader": "^0.5.7",
+    "jsonify-excel": "^1.0.14",
     "laravel-elixir": "^6.0.0-9",
     "laravel-elixir-browsersync-official": "^1.0.0",
     "laravel-elixir-vue": "^0.1.4",
-    "laravel-elixir-webpack-official": "^1.0.6",
     "laravel-elixir-webpack-advanced": "^0.3.9-5",
+    "laravel-elixir-webpack-official": "^1.0.6",
+    "lodash": "^4.17.4",
+    "readline-sync": "^1.4.7",
     "vue-resource": "^0.9.3"
   },
   "dependencies": {

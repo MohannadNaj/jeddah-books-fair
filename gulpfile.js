@@ -9,6 +9,15 @@ elixir.config.viewPath = 'resources/views';
 
 
 elixir(mix => {
+		elixir.webpack.mergeConfig({
+		    module: {
+		        loaders: [{
+			        test: /\.json$/,
+			        loader: 'json-loader'
+		        }]
+		    }
+		})
+		mix.webpack('books.js')
 	/* Files */
 		mix.copy('resources/assets/files/','public/')
 
@@ -30,7 +39,7 @@ elixir(mix => {
 	
 	/* Combine css */
 		// Sass Entry Point
-		.sass('app.scss');
+//		.sass('app.scss');
     
 	/* browserSync - development */
 	    mix.browserSync(
