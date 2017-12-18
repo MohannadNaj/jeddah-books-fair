@@ -7,7 +7,6 @@ elixir.config.sourcemaps = false;
 elixir.config.appPath = 'application';
 elixir.config.viewPath = 'resources/views';
 
-
 elixir(mix => {
 		elixir.webpack.mergeConfig({
 		    module: {
@@ -17,7 +16,7 @@ elixir(mix => {
 		        }]
 		    }
 		})
-		mix.webpack('books.js')
+		mix.webpack('books.js') // search
 	/* Files */
 		mix.copy('resources/assets/files/','public/')
 
